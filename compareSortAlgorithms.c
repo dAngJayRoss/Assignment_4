@@ -251,5 +251,5 @@ int main(void)
 		free(pDataCopy);
 		free(pDataSrc);
 	}
-
+ return 0;
 }
